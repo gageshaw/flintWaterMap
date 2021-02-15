@@ -6,6 +6,7 @@ Graph generators for different water quality heuristics can be found in their re
 They take as input two seperate Microsoft Excel files containing:
 1) measurement values from sites 
 2) goegraphical coordinate of the measurement sites
+
 Examples of how these Excel files are formated can be found in the directory exampleData.
 
 
