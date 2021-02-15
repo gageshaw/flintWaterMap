@@ -9,6 +9,8 @@ They take as input two seperate Microsoft Excel files containing:
 
 Examples of how these Excel files are formated can be found in the directory exampleData.
 
+Below are three plots generated using this software. 
+
 
 
 ![plot](/images/February7,2016ConductivityEWDM.png)
